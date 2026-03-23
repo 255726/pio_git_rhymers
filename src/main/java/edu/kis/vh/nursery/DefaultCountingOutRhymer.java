@@ -31,7 +31,7 @@ public class DefaultCountingOutRhymer {
 
     public int countOut() {
         if (callCheck())
-            return EMPTY_RHYMER_INDICATOR;
+            return DEFAULT_VALUE;
         return numbers[total--];
     }
 
