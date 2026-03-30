@@ -1,5 +1,5 @@
 package edu.kis.vh.nursery;
-
+// Projekt jest poprawny
 public class DefaultCountingOutRhymer {
 
     public static final int CAPACITY = 12;
